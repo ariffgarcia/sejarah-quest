@@ -1,3 +1,4 @@
+import './index.css';
 import React, { useState, useEffect, useRef } from 'react';
 import { Play, RotateCcw, Trophy, CheckCircle2, XCircle, ArrowRight, Crown, Puzzle, Compass, Flower, Lock } from 'lucide-react';
 
